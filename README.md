@@ -1,2 +1,5 @@
-# PowerBI_Dash_01
-This shows the business development analysis for Techtronix innovations, a leader in the microchip and robotics industry, managed by a skilled data analyst, to streamlining its sales strategies, optimizing production planning, and pursuing market expansion, through insightful data analysis, improving the overall performance of the company.
+# PowerBI_Dashboard_01
+Techtronix Innovations, a leading microchip and robotics company serving automotive, consumer electronics, and industrial sectors, faced challenges with demand unpredictability, inventory inefficiencies, and identifying profitable opportunities.
+Analyzed sales performance, customer behavior, inventory utilization, and profitability to identify optimization opportunities and potential market expansion strategies.
+Developed a comprehensive PowerBI dashboard that tracked KPIs ($53M profit, 501K units sold, $252M revenue), identified seasonal trends, evaluated product-specific performance, analyzed regional sales patterns, and assessed client segment profitability across different product categories.
+Recommended strategic resource reallocation resulting in an 11% profit boost, targeted marketing during peak seasons, focus on high-performing products and regions (microchips in USA/Germany), inventory optimization for 23 negative-margin products, and expansion opportunities in the Asia-Pacific region to diversify the customer base beyond overreliance on one client.
