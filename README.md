@@ -1,4 +1,4 @@
-# PowerBI_Dashboard_01
+# BUSINESS DEVELOMENT ANALYSIS
 Techtronix Innovations, a leading microchip and robotics company serving automotive, consumer electronics, and industrial sectors, faced challenges with demand unpredictability, inventory inefficiencies, and identifying profitable opportunities.
 Analyzed sales performance, customer behavior, inventory utilization, and profitability to identify optimization opportunities and potential market expansion strategies.
 Developed a comprehensive PowerBI dashboard that tracked KPIs ($53M profit, 501K units sold, $252M revenue), identified seasonal trends, evaluated product-specific performance, analyzed regional sales patterns, and assessed client segment profitability across different product categories.
